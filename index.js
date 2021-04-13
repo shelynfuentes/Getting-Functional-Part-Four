@@ -12,10 +12,10 @@ The output should be a number.
 
 */
 
-function genderCount(array, string){
-//CODE BELOW HERE
-
+function genderCount(array, genderEnter) {
+  //CODE BELOW HERE
+  if (array[i].gender === genderEnter)
 
 
 //CODE ABOVE HERE
-}
+} 
